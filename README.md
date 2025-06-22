@@ -1,5 +1,4 @@
 # Customer-Support-Ticket-Analyzer-Router
-# 🧠 Customer Support Ticket Analyzer & Router
 
 This project implements an AI-powered system to **analyze and automatically categorize customer support tickets**, and **assign appropriate priority levels** based on multiple factors such as customer tier, sentiment, and issue type.
 
@@ -56,9 +55,9 @@ The system analyzes multiple support tickets with attributes like:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/support-ticket-analyzer.git
-cd support-ticket-analyzer
+git clone https://github.com/Sivakumar793/Customer-Support-Ticket-Analyzer-Router.git
 ```
+
 2. Run the Jupyter notebook:
 ```bash
 jupyter notebook Draconic_Ticket_Analyzer_Router.ipynb
